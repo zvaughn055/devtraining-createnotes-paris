@@ -6,6 +6,7 @@
         <dynamic_title_structure/>
         <id>notes_home</id>
         <internal>false</internal>
+        <omit_watcher>false</omit_watcher>
         <public>false</public>
         <roles/>
         <short_description/>
